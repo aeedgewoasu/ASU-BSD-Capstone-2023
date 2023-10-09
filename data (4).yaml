@@ -1,0 +1,12 @@
+names:
+- ore
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ore-coco
+  url: https://universe.roboflow.com/comp-lulu/ore-coco/dataset/1
+  version: 1
+  workspace: comp-lulu
+test: ../test/images
+train: /content/datasets/Ore-COCO-1/train/images
+val: /content/datasets/Ore-COCO-1/valid/images

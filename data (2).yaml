@@ -1,0 +1,12 @@
+names:
+- biotita
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: novo-mask
+  url: https://universe.roboflow.com/comp-lulu/novo-mask/dataset/6
+  version: 6
+  workspace: comp-lulu
+test: ../test/images
+train: /content/datasets/Novo-Mask-6/train/images
+val: /content/datasets/Novo-Mask-6/valid/images
